@@ -3,31 +3,31 @@
       "id": 1,
       "name": "Luci",
       "description": "En vänlig och energisk hund som är perfekt för familjer. Luci är pigg, lekfull och lätt att träna, vilket gör henne till en härlig följeslagare för barn och vuxna. Hon trivs i aktiva hem och älskar att umgås med sina ägare, samtidigt som hon är bra på att anpassa sig till olika miljöer.",
-      "breed": "Affenpinscher",
+      "breed": "Affenpinscher"
     },
     {
       "id": 2,
       "name": "Roni",
       "description": "En snäll och lojal hund som gillar att leka och vara social. Roni är en glad och ivrig hund som älskar att tillbringa tid med sin familj. Han är mycket vänlig mot andra hundar och människor, och passar utmärkt för aktiv familj som gillar utomhusaktiviteter och promenader. Roni är också smart och lätt att träna.",
-      "breed": "Golden Retriever",
+      "breed": "Golden Retriever"
     },
     {
       "id": 3,
       "name": "Klara",
       "description": "En smart och trofast hund, bra som tjänstehund. Klara är mycket lydig, har ett starkt sinne och är lätt att utbilda för olika tjänsteuppdrag. Hon är tålmodig och empatisk, vilket gör henne till en utmärkt assistanshund eller följeslagare för personer med särskilda behov. Hon trivs både inomhus och utomhus och är mycket lojal mot sin familj.",
-      "breed": "German Shepherd",
+      "breed": "German Shepherd"
     },
     {
       "id": 4,
       "name": "Musi",
       "description": "En liten och charmig hund med mycket personlighet. Trots sin lilla storlek har hon en stor personlighet och är mycket sällskaplig. Hon passar bra i mindre hem eller lägenheter och är enkel att trivas med tack vare sin anpassningsförmåga",
-      "breed": "French Bulldog",
+      "breed": "French Bulldog"
     },
     {
       "id": 5,
       "name": "Klaus",
       "description": "En glad och nyfiken hund som gillar att nosa. Klaus är en aktiv hund som älskar att spåra och utforska sin omgivning. Han är social och gillar att vara ute på äventyr, men är också mycket kärleksfull hemma. Klaus passar bra för familjer som gillar utomhusaktiviteter och jaktliknande lekar, tack vare hans naturliga instinkt att nosa och undersöka.",
-      "breed": "Beagle",
+      "breed": "Beagle"
     }
   ]
   
