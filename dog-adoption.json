@@ -29,5 +29,47 @@
       "description": "En glad och nyfiken hund som gillar att nosa. Klaus är en aktiv hund som älskar att spåra och utforska sin omgivning. Han är social och gillar att vara ute på äventyr, men är också mycket kärleksfull hemma. Klaus passar bra för familjer som gillar utomhusaktiviteter och jaktliknande lekar, tack vare hans naturliga instinkt att nosa och undersöka.",
       "breed": "Beagle"
     }
+    {
+    "id": 6,
+    "name": "Fido",
+    "description": "En energisk och lekfull hund som älskar att springa och leka utomhus. Fido är en vänlig hund som trivs i familjemiljö och är bra med barn. Han är lätt att träna och gillar att vara aktiv, vilket gör honom till en utmärkt följeslagare för aktiva familjer.",
+    "breed": "Labrador Retriever"
+  },
+  {
+    "id": 7,
+    "name": "Bella",
+    "description": "En söt och lugn hund som gillar att mysa. Bella är mycket tillgiven och gillar att vara nära sina ägare. Hon är perfekt för lugnare hem och trivs både inomhus och utomhus. Hon är lätt att ta hand om och passar bra för familjer som söker en kärleksfull följeslagare.",
+    "breed": "Cavalier King Charles Spaniel"
+  },
+  {
+    "id": 8,
+    "name": "Toto",
+    "description": "En modig och alert hund som är bra på att vakta. Toto är lojal och skyddande mot sin familj. Han är aktiv och gillar att vara ute, men trivs också bra i lugnare miljöer. Toto är perfekt för familjer som vill ha en trygg och vaksam hund.",
+    "breed": "Staffordshire Bull Terrier"
+  },
+  {
+    "id": 9,
+    "name": "Luna",
+    "description": "En intelligent och nyfiken hund som gillar att utforska. Luna är en energisk hund som trivs i aktiva hem och gillar att leka och träna. Hon är vänlig och social, och passar bra för familjer som gillar utomhusäventyr.",
+    "breed": "Border Collie"
+  },
+  {
+    "id": 10,
+    "name": "Oscar",
+    "description": "En charmig och lättsam hund som älskar att vara med sin familj. Oscar är vänlig, lätt att träna och anpassar sig väl till olika miljöer. Han passar bra för familjer som söker en lojal och kärleksfull följeslagare.",
+    "breed": "Boxer"
+  },
+  {
+    "id": 11,
+    "name": "Molly",
+    "description": "En feminin och glad hund som gillar att leka med andra hundar. Molly är social och energisk, och trivs bäst i aktiva hem. Hon är lätt att träna och gillar att vara utomhus och utforska sin omgivning.",
+    "breed": "Shetland Sheepdog"
+  },
+  {
+    "id": 12,
+    "name": "Rex",
+    "description": "En robust och pålitlig hund som är bra för familjer. Rex är trofast och gillar att vara ute i naturen. Han är lagom aktiv och passar bra för familjer som gillar friluftsliv och utomhusaktiviteter.",
+    "breed": "Siberian Husky"
+  }
   ]
   
