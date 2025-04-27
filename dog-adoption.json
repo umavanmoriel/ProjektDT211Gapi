@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Luci",
+      "description": "En vänlig och energisk hund som är perfekt för familjer.",
+      "breed": "Affenpinscher",
+      "age": "2 år"
+    },
+    {
+      "id": 2,
+      "name": "Roni",
+      "description": "En snäll och lojal hund som gillar att leka och vara social.",
+      "breed": "Golden Retriever",
+      "age": "5 år"
+    },
+    {
+      "id": 3,
+      "name": "Klara",
+      "description": "En smart och trofast hund, bra som tjänstehund.",
+      "breed": "German Shepherd",
+      "age": "7 år"
+    },
+    {
+      "id": 4,
+      "name": "Musi",
+      "description": "En liten och charmig hund med mycket personlighet.",
+      "breed": "French Bulldog",
+      "age": "4 år"
+    },
+    {
+      "id": 5,
+      "name": "Klaus",
+      "description": "En glad och nyfiken hund som gillar att nosa.",
+      "breed": "Beagle",
+      "age": "3 år"
+    }
+  ]
+  
