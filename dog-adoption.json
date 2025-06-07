@@ -15,8 +15,8 @@
   {
     "id": 3,
     "name": "Klara",
-    "description": "En smart och trofast hund, bra som tjänstehund. Klara är mycket lydig, har ett starkt sinne och är lätt att utbilda för olika tjänsteuppdrag. Hon är tålmodig och empatisk, vilket gör henne till en utmärkt assistanshund eller följeslagare för personer med särskilda behov. Hon trivs både inomhus och utomhus och är mycket lojal mot sin familj.",
-    "breed": "German Shepherd"
+    "description": "En energisk och vänlig hund som passar bra som familjehund. Klara är lekfull, social och lätt att träna, vilket gör henne till ett utmärkt val för aktiva familjer och hundägare som vill ha en trogen följeslagare. Hon trivs både inomhus och utomhus och är mycket lojal mot sin familj.",
+    "breed": "Labrador Retriever"
   },
   {
     "id": 4,
@@ -40,7 +40,7 @@
     "id": 7,
     "name": "Bella",
     "description": "En söt och lugn hund som gillar att mysa. Bella är mycket tillgiven och gillar att vara nära sina ägare. Hon är perfekt för lugnare hem och trivs både inomhus och utomhus. Hon är lätt att ta hand om och passar bra för familjer som söker en kärleksfull följeslagare.",
-    "breed": "Cavalier King Charles Spaniel"
+    "breed": "Fransk Bulldog"
   },
   {
     "id": 8,
@@ -58,7 +58,7 @@
     "id": 10,
     "name": "Oscar",
     "description": "En charmig och lättsam hund som älskar att vara med sin familj. Oscar är vänlig, lätt att träna och anpassar sig väl till olika miljöer. Han passar bra för familjer som söker en lojal och kärleksfull följeslagare.",
-    "breed": "Boxer"
+    "breed": "Spaniel"
   },
   {
     "id": 11,
